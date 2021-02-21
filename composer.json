@@ -1,0 +1,16 @@
+{
+    "name": "php-tgbf/ena",
+    "description": "A Telegram bot framework",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miku3920",
+            "email": "papa964204@gmail.com"
+        }
+    ],
+    "require": {}
+}
